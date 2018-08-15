@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8AD4-06B5
+
+ Directory of c:\DevOps Tools\Java Projects
+
+08/08/2018  03:53 PM    <DIR>          .
+08/08/2018  03:53 PM    <DIR>          ..
+08/07/2018  11:18 PM               189 Hello.java
+08/07/2018  11:12 PM               133 Hello2.java
+08/08/2018  03:53 PM                 0 test1.txt
+               3 File(s)            322 bytes
+               2 Dir(s)  78,789,804,032 bytes free
